@@ -19,8 +19,6 @@ canvas {
 
 #cursor {
   position: absolute;
-  top: 30vh;
-  left: 30vw;
   height: 5px;
   width: 5px;
   border-radius: 50%;
